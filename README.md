@@ -7,7 +7,7 @@ Admin Management: Admins can create, update, and delete courses via dedicated ro
 User Interaction: Users can browse available courses, purchase courses, and view their purchased courses.
 MongoDB Integration: Utilizes MongoDB for persistent data storage.
 ## Technologies Used:
-Node.js: Backend server environment.
+#### Node.js: Backend server environment.
 Express.js: Web application framework for Node.js.
 MongoDB: NoSQL database for storing course and user data.
 JWT: JSON Web Tokens for secure authentication.
